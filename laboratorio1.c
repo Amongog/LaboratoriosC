@@ -3,7 +3,7 @@
                  IE-0117 Programación Bajo Plataformas Abiertas
              Autor: Samuel Berrocal Soto. samuel.berrocal@ucr.ac.cr
 --------------------------------------------------------------------------------
-  Programa para Máxico Común Divisor (MCD).
+  Programa para Máximo Común Divisor (MCD).
   Este programa hace uso del Algoritmo de Euclides para realizar el cálculo
   del MCD.
   El Algoritmo de Euclides funciona iniciando la división entre los primeros
