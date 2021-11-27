@@ -1,6 +1,7 @@
 // -----------------------------------------------------------------------------
 //                IE-0117 Programación Bajo Plataformas Abiertas
 //            Autor: Samuel Berrocal Soto. samuel.berrocal@ucr.ac.cr
+//                      Desarrollado en Ubuntu 20.04 LTS
 // -----------------------------------------------------------------------------
 // Programa para Máxico Común Divisor (MCD).
 // Este programa hace uso del Algoritmo de Euclides para realizar el cálculo
