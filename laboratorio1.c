@@ -1,18 +1,19 @@
-// -----------------------------------------------------------------------------
-//                IE-0117 Programación Bajo Plataformas Abiertas
-//            Autor: Samuel Berrocal Soto. samuel.berrocal@ucr.ac.cr
-//                      Desarrollado en Ubuntu 20.04 LTS
-// -----------------------------------------------------------------------------
-// Programa para Máxico Común Divisor (MCD).
-// Este programa hace uso del Algoritmo de Euclides para realizar el cálculo
-// del MCD.
-// El Algoritmo de Euclides funciona iniciando la división entre los primeros
-// dos números, encontrando su residuo, e iterando más divisiones en las que
-// cada dividendo nuevo será el divisor pasado, y cada divisor nuevo será el
-// residuo pasado.
-// Cuando el residuo sera cero, significa que el último divisor utilizado es el
-// Máximo Común Divisor.
-// -----------------------------------------------------------------------------
+/*
+--------------------------------------------------------------------------------
+                 IE-0117 Programación Bajo Plataformas Abiertas
+             Autor: Samuel Berrocal Soto. samuel.berrocal@ucr.ac.cr
+--------------------------------------------------------------------------------
+  Programa para Máximo Común Divisor (MCD).
+  Este programa hace uso del Algoritmo de Euclides para realizar el cálculo
+  del MCD.
+  El Algoritmo de Euclides funciona iniciando la división entre los primeros
+  dos números, encontrando su residuo, e iterando más divisiones en las que
+  cada dividendo nuevo será el divisor pasado, y cada divisor nuevo será el
+  residuo pasado.
+  Cuando el residuo sera cero, significa que el último divisor utilizado es el
+  Máximo Común Divisor.
+--------------------------------------------------------------------------------
+*/
 
 #include <stdio.h>
 #include <string.h>
